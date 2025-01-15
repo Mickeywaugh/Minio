@@ -1,0 +1,17 @@
+{
+    "name": "mickeywaugh/minio",
+    "description": "minio-client-php-sdk",
+    "type": "libray",
+    "autoload": {
+        "psr-4": {
+            "Mickeywaugh\\Minio\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mickeywaugh",
+            "email": "mickeywaugh@qq.com"
+        }
+    ],
+    "require": {}
+}
