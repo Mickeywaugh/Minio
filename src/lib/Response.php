@@ -1,6 +1,6 @@
 <?php
 
-namespace Mickeywaugh\Minio;
+namespace Mickeywaugh\Minio\lib;
 
 class Response
 {

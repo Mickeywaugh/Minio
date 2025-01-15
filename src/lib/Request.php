@@ -1,8 +1,8 @@
 <?php
 
-namespace Mickeywaugh\Minio;
+namespace Mickeywaugh\Minio\lib;
 
-use Mickeywaugh\Minio\Response;
+use Mickeywaugh\Minio\lib\Response;
 
 class Request
 {

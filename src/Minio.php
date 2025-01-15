@@ -2,6 +2,8 @@
 
 namespace Mickeywaugh\Minio;
 
+use Mickeywaugh\Minio\lib\Request;
+
 class Minio
 {
     const CODE_SUCCESS = 200;
